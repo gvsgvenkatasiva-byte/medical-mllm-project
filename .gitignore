@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+data/lung_xray/
+
+# Generated images
+data/gradcam_result.jpg
+data/gradcam_comparison.jpg
+data/processed.jpg
+
+# Local test image
+data/test.jpg
+
+# Trained model files
+models/*.pth
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+# Virtual environment
+venv/
